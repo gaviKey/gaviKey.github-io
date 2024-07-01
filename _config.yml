@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: jekyll-theme-potato-hacker
-author: "<your_name>"
-email: "<your@mail>"
-description: A simple Jekyll theme based on potatoes and hackers
+author: "gavi"
+email: "gaviKey@qq.com"
+description: It's my first Jekyll blog!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -24,15 +24,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: "<github_username>"
-facebook_username: "<facebook_username>"
-twitter_username: "<twitter_username>"
-linkedin_id: "<linkedin_id>"
+github_username: "gaviKey"
+# facebook_username: "<facebook_username>"
+# twitter_username: "<twitter_username>"
+# linkedin_id: "https://gavikey.github.io/"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
 # remote_theme: luxedo/jekyll-theme-potato-hacker   # Or this
-theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
+# theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
 theme_base: "dark" # Theme palette (light | dark)
 theme_switch: on # Show color switch (on | off)
 
@@ -40,7 +40,7 @@ theme_switch: on # Show color switch (on | off)
 blog: on # Show blog tag and post list (on | off)
 avatar: on # Show avatar (on | off)
 avatar_image: "assets/img/avatar.jpg"
-avatar_description: "My name is Popotato and I'm a HACKER."
+avatar_description: " I'm gavi, nice to meet you."
 highlighter_theme:
   gruvbox # Theme of the syntax_highlighter [base16 |
   # colorful | github | gruvbox | molokai |
