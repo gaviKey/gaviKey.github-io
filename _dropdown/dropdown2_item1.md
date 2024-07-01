@@ -4,5 +4,14 @@ title: item1
 description: Test page
 dropdown: dropdown2
 ---
-# Lorem ipsum
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+# hi
+i m gavi ,this is my first blog post
+and i hope you like it. this is a test page for dropdown2。
+你说的对，我也觉得很好。首先这是一篇测试页面，用来测试dropdown2的效果。但是我不知道这里的文字能不能显示出来。
+> hi1
+> hi2
+> hi3
+
+```python   
+    print("hello world")
+```
