@@ -33,7 +33,7 @@ github_username: "gaviKey"
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
 # remote_theme: luxedo/jekyll-theme-potato-hacker   # Or this
 theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
-theme_base: "light" # Theme palette (light | dark)
+theme_base: "dark" # Theme palette (light | dark)
 theme_switch: on # Show color switch (on | off)
 
 # Extra settings
